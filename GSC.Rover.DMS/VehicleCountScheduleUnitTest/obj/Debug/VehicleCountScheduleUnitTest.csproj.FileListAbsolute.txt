@@ -1,0 +1,1 @@
+C:\Product Development\Project Anduril\Main\GSC.Rover.DMS\VehicleCountScheduleUnitTest\obj\Debug\VehicleCountScheduleUnitTest.csprojResolveAssemblyReference.cache

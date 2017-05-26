@@ -1,0 +1,1 @@
+C:\Product Development\Project Anduril\Main\GSC.Rover.DMS\ReceivingTransaction\obj\Debug\ReceivingTransaction.csprojResolveAssemblyReference.cache

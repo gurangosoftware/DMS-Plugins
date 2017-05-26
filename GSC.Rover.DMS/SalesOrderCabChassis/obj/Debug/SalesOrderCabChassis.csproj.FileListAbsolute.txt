@@ -1,0 +1,1 @@
+C:\Product Development\Project Anduril\Main\GSC.Rover.DMS\SalesOrderCabChassis\obj\Debug\SalesOrderCabChassis.csprojResolveAssemblyReference.cache

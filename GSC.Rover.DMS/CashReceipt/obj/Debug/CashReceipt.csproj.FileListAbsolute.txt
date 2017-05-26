@@ -1,0 +1,1 @@
+C:\Product Development\Project Anduril\Main\GSC.Rover.DMS\CashReceipt\obj\Debug\CashReceipt.csprojResolveAssemblyReference.cache

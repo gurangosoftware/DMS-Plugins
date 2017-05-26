@@ -1,0 +1,4 @@
+C:\Product Development\Project Anduril\Main\GSC.Rover.DMS\VehicleCountEntryUnitTests\bin\Debug\VehicleCountEntryUnitTests.dll
+C:\Product Development\Project Anduril\Main\GSC.Rover.DMS\VehicleCountEntryUnitTests\bin\Debug\VehicleCountEntryUnitTests.pdb
+C:\Product Development\Project Anduril\Main\GSC.Rover.DMS\VehicleCountEntryUnitTests\obj\Debug\VehicleCountEntryUnitTests.dll
+C:\Product Development\Project Anduril\Main\GSC.Rover.DMS\VehicleCountEntryUnitTests\obj\Debug\VehicleCountEntryUnitTests.pdb

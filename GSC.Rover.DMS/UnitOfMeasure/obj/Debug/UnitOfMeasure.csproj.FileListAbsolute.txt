@@ -1,0 +1,1 @@
+C:\Product Development\Project Anduril\Main\GSC.Rover.DMS\UnitOfMeasure\obj\Debug\UnitOfMeasure.csprojResolveAssemblyReference.cache
